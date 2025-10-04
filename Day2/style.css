@@ -1,0 +1,40 @@
+ @font-face {
+    font-family: horror;
+    src: url(./DHF\ Story\ Brush.ttf);
+ }
+ @font-face {
+    font-family:sheriyans ;
+    src: url(./NeueMachina-Medium_d0jNuroW9.ttf);
+ }
+ *{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+ }
+
+ html,body{
+    height:100%;
+    width:100%;
+ }
+ h1{
+    background-color: blue;
+    color:red;
+    font-size:100px ;
+    font-family:horror;
+    font-weight: 100;
+    font-style:italic;
+     
+    text-align:center;
+    text-transform:capitalize  ;
+ }
+
+ p1{
+    color:blue;
+ }
+ .me{
+    color:royalblue;
+ }
+ #love{
+    color:aqua;
+    font-family:sheriyans ;
+ }
